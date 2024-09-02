@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **SudamNF17/SudamNF17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Sudam Fernando</h1>
 <h3 align="center">passionate IT student | Exploring the boundless world of technolodgy</h3>
-
+---
 
 
 - 🔭 I’m currently working on **online employee examination system**
