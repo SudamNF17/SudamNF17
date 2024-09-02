@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Sudam Fernando</h1>
 <h3 align="center">passionate IT student | Exploring the boundless world of technolodgy</h3>
----
+___
 
 
 - 🔭 I’m currently working on **online employee examination system**
