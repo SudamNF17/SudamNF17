@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C++**
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 📫 How to reach me **sudam17fernando@gmail.com**
   
 - ⚡ Fun fact **Call me as Sudda**
 
