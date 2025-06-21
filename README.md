@@ -6,17 +6,11 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-  
-- 🌱 I’m currently learning **C++**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 💬 Ask me about **C**
-
 - 📫 How to reach me **sudam17fernando@gmail.com**
   
-- ⚡ Fun fact **Call me as sudam_JX**
-
 </td>
 <td width="50%" align="center">
 
