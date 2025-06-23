@@ -29,21 +29,22 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
+<h3 align="center">📊 My GitHub Statistics:</h3>
+
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SudamNF17&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SudamNF17&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudamNF17&theme=dark&hide_border=false&layout=compact&langs_count=10" />
-</td>
-</tr>
-</table>
+  <a href="https://github.com/SudamNF17">
+    <img src="https://github-readme-stats.vercel.app/api?username=SudamNF17&theme=dark&show_icons=true&count_private=true" alt="Sudam's GitHub Stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/SudamNF17">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudamNF17&theme=dark&hide_border=false" alt="Sudam's GitHub Streak" />
+  </a>
+  <br><br>
+  <a href="https://github.com/SudamNF17">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=SudamNF17&layout=compact&theme=dark&langs_count=10" alt="Top Languages" />
+  </a>
+</p>
+
 
 ---
 
