@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://github.com/SudamNF17">
-    <img src="https://github-readme-stats.vercel.app/api?username=SudamNF17&theme=dark&show_icons=true&count_private=true" />
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SudamNF17&theme=dark&show_icons=true&count_private=true" />
   </a>
   <br><br>
   <a href="https://github.com/SudamNF17">
