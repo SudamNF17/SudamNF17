@@ -22,7 +22,7 @@
 </table>
 
 ---
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
