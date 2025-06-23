@@ -9,7 +9,13 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 📫 How to reach me **sudam17fernando@gmail.com**
+- 💻 Passionate about Software Engineering & Web Development 
+
+- 🔭 Currently working on MERN Stack Projects
+
+- 📫 How to reach me **sudam17fernando@gmail.com** 
+
+- 🌱 Always learning, always building!
   
 </td>
 <td width="50%" align="center">
