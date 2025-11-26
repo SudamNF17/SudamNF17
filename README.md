@@ -66,7 +66,7 @@
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/sudam-fernando-063171270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img align="center" 
          src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" 
          alt="LinkedIn Sudam Fernando" 
