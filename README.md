@@ -32,18 +32,23 @@
 <h3 align="center">📊 My GitHub Statistics:</h3>
 
 <p align="center">
+  <!-- GitHub Streak Card -->
   <a href="https://github.com/SudamNF17">
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SudamNF17&theme=dark&show_icons=true&count_private=true" />
+    <img title="🔥 GitHub Streak"
+         alt="Sudam's GitHub Streak"
+         src="https://git-hub-streak-stats.vercel.app/?user=SudamNF17&theme=dark&hide_border=false" />
   </a>
   <br><br>
+  
+  <!-- Top Languages Card -->
   <a href="https://github.com/SudamNF17">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudamNF17&theme=dark&hide_border=false" alt="Sudam's GitHub Streak" />
-  </a>
-  <br><br>
-  <a href="https://github.com/SudamNF17">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=SudamNF17&layout=compact&theme=dark&langs_count=10" alt="Top Languages" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=SudamNF17&layout=compact&theme=dark&langs_count=10"
+         alt="Top Languages" />
   </a>
 </p>
+
+
+
 
 
 ---
