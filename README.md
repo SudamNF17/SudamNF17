@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Sudam Fernando</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<h3 align="center">Passionate SE Undergraduate | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SudamNF17&label=Profile%20views&color=0e75b6&style=flat" alt="SudamNF17" /> </p>
 
 <table align="center">
@@ -11,11 +11,11 @@
 
 - 💻 Passionate about Software Engineering & Web Development 
 
-- 🔭 Currently working on MERN Stack Projects
+- 🔭 Currently developing MERN Stack & Java-based projects
 
 - 📫 How to reach me **sudam17fernando@gmail.com** 
 
-- 🌱 Always learning, always building!
+- 🌱 Continuously learning new technologies and improving my problem-solving skills
   
 </td>
 <td width="50%" align="center">
